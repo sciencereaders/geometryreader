@@ -1,0 +1,3 @@
+# Curriculum
+
+Geometry Reader scaffolds geometric conceptualisation from the ground up. Learners start with the idea of a point and a turn and build towards the reasoning of secondary-school geometry. Every rule is met first as something to handle, then as something to watch being proved, and only then as something to state, so each new idea rests visibly on the ones before it. Geometry Reader is the flagship module of **Science Readers**, a private educational ecosystem by the same author that is planned to extend this approach to localised modules in Mathematics, Physics, Chemistry and Biology. The detailed topic-by-topic curriculum map is part of the Reviewer Pack.
