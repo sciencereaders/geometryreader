@@ -88,4 +88,4 @@ Copyright © 2026 Wasema Farzana. All rights reserved. This is not open-source s
 
 ---
 
-**Note for Reviewers:** Implementation details, the full design decision log, the topic-by-topic curriculum map and the research instruments are withheld from this public page. The full Reviewer Pack, including an author contribution statement, is available to admissions committees and academic labs on request.
+**Note for Reviewers:** Implementation details, the full design decision log, the topic-by-topic curriculum map and the research instruments are withheld from this public page. The full Reviewer Pack, including an author contribution statement, is available to researchers and academic labs on request.

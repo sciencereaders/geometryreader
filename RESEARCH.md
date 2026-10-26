@@ -6,7 +6,7 @@
 
 ## 1. Positionality: from optimisation to context
 
-I began my undergraduate studies in Computer Science and Engineering and moved to Anthropology. I made that move because the questions I cared about kept falling outside what technical optimisation can answer. Software can be correct, fast and well designed and still fail. It fails if it does not fit the economics of a household, the politics of who may use a device, or the cultural meanings attached to a girl studying mathematics.
+I came to anthropology from computer science and engineering. I made that move because the questions I cared about kept falling outside what technical optimisation can answer. Software can be correct, fast and well designed and still fail. It fails if it does not fit the economics of a household, the politics of who may use a device, or the cultural meanings attached to a girl studying mathematics.
 
 Three bodies of experience shape this work:
 - **Computing,** which lets me specify and review a working tool rather than only describe one.
