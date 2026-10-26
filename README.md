@@ -18,12 +18,12 @@ Geometry Reader is not a textbook and not a replacement for practice. It is desi
 Geometry Reader supplies the missing step. The learner moves the figure, sees which facts survive every change, and watches the proof happen. In the author's teaching it is the second explanation, not the first: lessons start with the textbook and the methods learners are used to, the tool comes in where confusion remains, and practice follows without it. Whether it improves understanding is a research question, not yet a finding.
 
 ## What makes it different
-- **Watch why, not just that.** Theorems and formulas are proved by animating the learner's own figure: pieces fold, swing and slide until the reason is visible. 21 topics have a visual proof so far, and the rest are in progress.
+- **Watch why, not just that.** Theorems and formulas are proved by animating the learner's own figure: pieces fold, swing and slide until the reason is visible. 36 topics have a visual proof, from angles on a straight line to the circle theorems and the volume of a cone.
 - **Manipulate first.** Learners drag points, lines and solids; every angle, length, area and volume updates live.
 - **Formal and plain language together.** Every exam term sits beside a plain-language translation.
 - **A calm interface.** One tap switches off all motion and flashes; drag targets are large and forgiving; everything works from the keyboard.
 - **Built for constrained devices:**
-  - About 200 KB to download, once.
+  - About 225 KB to download, once.
   - After that, no data is sent or received, and it keeps working offline once loaded. An installable offline version is planned.
 - **Nothing to watch over.** No login, no profile, no tracking. On a shared phone, it keeps no record of the learner.
 - **Rooted in learners' own world.** Every idea is anchored in everyday objects, drawn in-house: a carrom board, a paper kite, a roti.
@@ -37,7 +37,8 @@ Geometry Reader is built and used at the same time. The learning sciences call t
 Sixteen interactive labs span school geometry from the first idea of a point to secondary-school trigonometry and vectors. Highlights:
 - Pythagoras' theorem proved by rearrangement.
 - Congruence shown by rebuilding a triangle from only the facts given.
-- Circle theorems, every area formula, and the sphere's volume and surface area, derived on screen.
+- Every circle theorem, the angle facts behind parallel lines and polygons, and the area formulas, proved on screen.
+- The volumes and surfaces of prisms, cylinders, pyramids, cones and spheres, derived on screen; the cone and the sphere by slicing them.
 - Loci, transformations, coordinate geometry and trigonometry.
 
 <table>
@@ -52,6 +53,10 @@ Sixteen interactive labs span school geometry from the first idea of a point to 
   <tr>
     <td><img src="docs/screenshots/12-transformations.png" alt="Any quadrilateral tiling the plane"></td>
     <td><img src="docs/screenshots/13-trigonometry.png" alt="Trigonometry in three dimensions"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/14-alternate-segment.png" alt="Visual proof of the alternate segment theorem"></td>
+    <td><img src="docs/screenshots/15-cone-volume.png" alt="Slicing a pyramid and a cone at the same height to show why each is a third of its box or cylinder"></td>
   </tr>
 </table>
 
