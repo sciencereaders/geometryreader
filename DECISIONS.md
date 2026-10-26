@@ -8,7 +8,7 @@ Every principle states a design intention. Whether it achieves its aim for learn
 *Origin: author.* Every concept is taught by direct manipulation: learners drag points, lines and solids, and every angle, length, area and volume updates live. No value is hidden. Text-only geometry blocked the author's own understanding as a student; seeing and handling the figure unlocked it.
 
 ## 2. Watch why, not just that
-*Origin: author.* Every theorem and formula is shown as an animation on the learner's own figure. Pieces fold, swing and slide until the reason becomes visible, with short plain captions. Proofs stay live: drag the figure and the same argument replays on the new shape. No exam board's written proof format is used as the main explanation.
+*Origin: author.* The aim is that every theorem and formula is shown as an animation on the learner's own figure; 21 topics have one so far. Pieces fold, swing and slide until the reason becomes visible, with short plain captions. Proofs stay live: drag the figure and the same argument replays on the new shape. No exam board's written proof format is used as the main explanation.
 
 ## 3. Two kinds of language, side by side
 *Origin: author.* Every formal term appears beside a plain-language translation, for example *Supplementary Angles ➔ (180° Flat Runway Pairs)*. Formal terms are where many learners freeze; the pairing lowers that wall while keeping the vocabulary examinations require.
