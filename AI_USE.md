@@ -9,7 +9,7 @@ Geometry Reader was built with substantial help from an AI coding assistant (Cla
 
 ## The author's contribution
 Listed by the contributor roles of the CRediT taxonomy (Brand et al., 2015):
-- **Conceptualisation.** Conceived the product, named it and the planned series of "Readers", and set its scope: the whole of school geometry, from first ideas to O-Level.
+- **Conceptualisation.** Conceived the product, named it and the planned series of "Readers", and set its scope: the whole of school geometry, from first ideas to O-Level. Identified measurement and unit conversion, which many learners find confusing, as the next module.
 - **Methodology (pedagogy).** Designed the teaching approach the tool embodies:
   - manipulation before explanation;
   - proofs that are watched, not recited;
@@ -28,8 +28,9 @@ Listed by the contributor roles of the CRediT taxonomy (Brand et al., 2015):
 - **Software.** Wrote all of the application code, from the author's briefs.
 - **Visualisation.** Drew the everyday-object illustrations, after the author chose in-house drawings.
 - **Validation.** Ran the automated checks: lint, build, numerical tests and scripted browser walk-throughs.
+- **Mathematical review.** At the author's request, checked the visual proofs for gaps in logic, and fixed the ones found.
 - **Writing.** Drafted most of the documentation from the author's own statements, and checked the references against published records.
-- **Proposals.** Suggested some design decisions, which the author accepted on their merits. These include Calm mode and keyboard control, the policy of disclosing AI use, keeping design claims as hypotheses, and correcting a mathematical over-generalisation in the original brief. The full decision log, part of the Reviewer Pack, records the origin of every decision.
+- **Proposals.** Suggested some design decisions, which the author accepted on their merits. These include Calm mode and keyboard control, the policy of disclosing AI use, keeping design claims as hypotheses, correcting a mathematical over-generalisation in the original brief, and building the measurement lab as a foundation module shared across subjects. The full decision log, part of the Reviewer Pack, records the origin of every decision.
 
 ## Provenance
 - Commits written by the assistant carry a `Co-Authored-By` trailer.
