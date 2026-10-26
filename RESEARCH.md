@@ -75,19 +75,28 @@ Used this way, the tool is a second representation that complements the textbook
 
 ## 6. Research questions
 
+The agenda has two tracks, kept apart because they answer different questions for different audiences.
+
+**Track A · Does the tool work?** (learning sciences)
 - **RQ1 (Understanding):** Does direct manipulation with visual proofs support conceptual understanding of geometry for learners without access to tutoring?
 - **RQ2 (Anxiety):** Does a calm, manipulable, non-evaluative environment reduce mathematics anxiety, and does any effect differ by starting anxiety?
+- **RQ6 (Sequencing):** Does the tool work better as the first explanation of a topic, or as a second explanation brought in where the textbook's has left confusion?
+- **RQ7 (Language):** Does pairing each formal term with a plain-language translation improve recall and correct use of the formal vocabulary?
+
+**Track B · Gendered access** (part of my wider research on gender, technology and power)
 - **RQ3 (Gendered access):** How do the conditions under which girls in regional Bangladesh access shared household devices (time, supervision, data cost) shape whether and how they can use a learning tool like this one?
 - **RQ4 (Design for constrained use):** Which design properties (low data cost, no accounts, short self-contained sessions, nothing stored about the learner) matter most to whether such a tool is usable under those conditions?
-- **RQ5 (Equity):** Are any benefits distributed differently between girls in regional peripheries and learners in capital-centric settings?
-- **RQ6 (Sequencing):** Does the tool work better as the first explanation of a topic, or as a second explanation brought in where the textbook's has left confusion?
+
+**A bridge, later**
+- **RQ5 (Equity):** Are any benefits distributed differently between girls in regional peripheries and learners in capital-centric settings? This needs the methods of both tracks.
 
 ## 7. Hypotheses (untested)
 
-- **H1:** Manipulation with visual proof yields larger gains in conceptual understanding than text-first instruction on the same topics.
-- **H2:** Reductions in mathematics anxiety are largest for learners who start out most anxious.
-- **H3:** For girls with supervised, time-limited device access, low data cost and the absence of logins and stored data are preconditions for sustained use, not secondary conveniences.
-- **H4:** Paired vocabulary improves correct use of formal terms without reducing performance on examination-style questions.
+- **H1 (Track A):** Manipulation with visual proof yields larger gains in conceptual understanding than text-first instruction on the same topics.
+- **H2 (Track A):** Reductions in mathematics anxiety are largest for learners who start out most anxious.
+- **H3 (Track B):** For girls with supervised, time-limited device access, low data cost and the absence of logins and stored data are preconditions for sustained use, not secondary conveniences.
+- **H4 (Track A):** Paired vocabulary improves correct use of formal terms without reducing performance on examination-style questions.
+- **H5 (Track A):** Watching a shape keep its rules while it is stretched, such as a rectangle becoming a square, improves acceptance of inclusive class relationships ("every square is a rectangle") compared with fixed diagrams.
 
 ## 8. Approach: design-based research
 
@@ -106,7 +115,9 @@ The journal is what makes Phase 1 count:
 
 What it cannot do is show that the tool works.
 
-**Phase 2, study (planned).** A formal evaluation with ethical approval, combining ethnographic inquiry into household device practices with participatory design and a staged evaluation of learning and anxiety outcomes. Girls, their families and their teachers are treated as co-designers rather than subjects. The primary population is **female secondary students in regional Bangladesh**, with capital-centric learners as a comparison.
+**Phase 2, studies (planned).** Two separate studies, each with its own ethical approval:
+- **Track A** evaluates learning and anxiety outcomes in a small pilot.
+- **Track B** studies household device practices through ethnographic and participatory work, set against national survey data. Girls, their families and their teachers are treated as co-designers rather than subjects. The primary population is **female secondary students in regional Bangladesh**, with capital-centric learners as a comparison.
 
 **The strongest counter-argument.** Technology tends to amplify the human capacity already present rather than substitute for what is missing (Toyama, 2015). If that holds here, the tool will help most where good teaching already exists, which is the opposite of its equity aim. RQ5 is designed so that the study can detect this, not only its absence.
 
