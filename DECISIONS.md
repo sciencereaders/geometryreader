@@ -8,7 +8,7 @@ Every principle states a design intention. Whether it achieves its aim for learn
 *Origin: author.* Every concept is taught by direct manipulation: learners drag points, lines and solids, and every angle, length, area and volume updates live. No value is hidden. Text-only geometry blocked the author's own understanding as a student; seeing and handling the figure unlocked it.
 
 ## 2. Watch why, not just that
-*Origin: author.* Results are shown as animations on the learner's own figure: 36 topics have one, from angles on a straight line to the volume of a cone. Pieces fold, swing and slide until the reason becomes visible, with short plain captions. A few, such as the volumes of the cone and the sphere, are visual explanations that rest on a slicing argument rather than full proofs. Proofs stay live: drag the figure and the same argument replays on the new shape. No exam board's written proof format is used as the main explanation.
+*Origin: author.* Results are shown as animations on the learner's own figure: 44 topics have one, from angles on a straight line to the volume of a cone and unit conversions. Pieces fold, swing and slide until the reason becomes visible, with short plain captions. A few, such as the volumes of the cone and the sphere, are visual explanations that rest on a slicing argument rather than full proofs. Proofs stay live: drag the figure and the same argument replays on the new shape. No exam board's written proof format is used as the main explanation.
 
 ## 3. Two kinds of language, side by side
 *Origin: author.* Every formal term appears beside a plain-language translation, for example *Supplementary Angles ➔ (180° Flat Runway Pairs)*. Formal terms are where many learners freeze; the pairing lowers that wall while keeping the vocabulary examinations require.
@@ -28,7 +28,7 @@ Every principle states a design intention. Whether it achieves its aim for learn
 ## 7. Built for shared, low-resource devices
 *Origin: a property of the original build; the gendered-access rationale was stated by the author in October 2026.*
 - The whole application runs in the browser, and the figures are drawn as lightweight vector graphics.
-- After a single download of about 225 KB (compressed), it sends and receives nothing. A session costs no further data, and once the page has loaded it keeps working without a connection.
+- After a single download of about 240 KB (compressed), it sends and receives nothing. A session costs no further data, and once the page has loaded it keeps working without a connection.
 - An installable offline version is planned.
 
 ## 8. No accounts, nothing stored about the learner
@@ -41,7 +41,7 @@ Every principle states a design intention. Whether it achieves its aim for learn
 *Origin: author.* Each lab teaches its topic in depth regardless of syllabus. Mapping a lab to a particular examination system is a separate layer added on top.
 
 ## 11. Mathematically honest
-*Origin: AI proposal, accepted, and extended by the author.* Where a simple rule has exceptions, the tool shows them rather than hiding them. Examples: a dented polygon breaks the "turns add to 360°" rule (an AI correction to the original brief); some textbooks disagree on how to count a cone's faces, and the author chose to teach that disagreement openly; and the trapezium has two competing definitions, of which the author chose the one learners are examined on.
+*Origin: AI proposal, accepted, and extended by the author.* Where a simple rule has exceptions, the tool shows them rather than hiding them. Examples: a dented polygon breaks the "turns add to 360°" rule (an AI correction to the original brief); some textbooks disagree on how to count a cone's faces, and the author chose to teach that disagreement openly; and the trapezium has two competing definitions, of which the author chose the one learners are examined on. After a mathematical review the author asked for, the proofs that rest on the parallel postulate or the slicing principle say so on screen.
 
 ## 12. Honest provenance and modest claims
 *Origin: the privacy rules are the author's; disclosing AI use and keeping claims as hypotheses were AI proposals the author accepted.* AI involvement is disclosed (see [AI_USE.md](AI_USE.md)). Design aims stay hypotheses until they are measured. No learner, school, family or specific locality is identified.

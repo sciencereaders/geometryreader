@@ -18,12 +18,12 @@ Geometry Reader is not a textbook and not a replacement for practice. It is desi
 Geometry Reader supplies the missing step. The learner moves the figure, sees which facts survive every change, and watches the proof happen. In the author's teaching it is the second explanation, not the first: lessons start with the textbook and the methods learners are used to, the tool comes in where confusion remains, and practice follows without it. Whether it improves understanding is a research question, not yet a finding.
 
 ## What makes it different
-- **Watch why, not just that.** Theorems and formulas are proved by animating the learner's own figure: pieces fold, swing and slide until the reason is visible. 36 topics have a visual proof, from angles on a straight line to the circle theorems and the volume of a cone.
+- **Watch why, not just that.** Theorems and formulas are proved by animating the learner's own figure: pieces fold, swing and slide until the reason is visible. 44 topics have a visual proof or derivation, from angles on a straight line to the circle theorems, the volume of a cone and the radian. Proofs that rest on the parallel postulate or the slicing principle say so on screen.
 - **Manipulate first.** Learners drag points, lines and solids; every angle, length, area and volume updates live.
 - **Formal and plain language together.** Every exam term sits beside a plain-language translation.
 - **A calm interface.** One tap switches off all motion and flashes; drag targets are large and forgiving; everything works from the keyboard.
 - **Built for constrained devices:**
-  - About 225 KB to download, once.
+  - About 240 KB to download, once.
   - After that, no data is sent or received, and it keeps working offline once loaded. An installable offline version is planned.
 - **Nothing to watch over.** No login, no profile, no tracking. On a shared phone, it keeps no record of the learner.
 - **Rooted in learners' own world.** Every idea is anchored in everyday objects, drawn in-house: a carrom board, a paper kite, a roti.
@@ -34,12 +34,13 @@ Geometry Reader is built and used at the same time. The learning sciences call t
 - **Next, a formal study:** an evaluation with ethical approval, parental consent and each student's own assent, testing the hypotheses set out in [RESEARCH.md](RESEARCH.md).
 
 ## Coverage
-Sixteen interactive labs span school geometry from the first idea of a point to secondary-school trigonometry and vectors. Highlights:
+Seventeen interactive labs. Sixteen span school geometry from the first idea of a point to secondary-school trigonometry and vectors; the seventeenth, Measurement & Units, teaches the units and conversions every science subject relies on. Highlights:
 - Pythagoras' theorem proved by rearrangement.
 - Congruence shown by rebuilding a triangle from only the facts given.
 - Every circle theorem, the angle facts behind parallel lines and polygons, and the area formulas, proved on screen.
 - The volumes and surfaces of prisms, cylinders, pyramids, cones and spheres, derived on screen; the cone and the sphere by slicing them.
 - Loci, transformations, coordinate geometry and trigonometry.
+- Unit conversions derived rather than memorised: why an area converts by 10,000 when a length converts by 100, why km/h becomes m/s by ÷ 3.6, and why 360° is 2π radians.
 
 <table>
   <tr>
@@ -61,7 +62,7 @@ Sixteen interactive labs span school geometry from the first idea of a point to 
 </table>
 
 ## Science Readers
-Geometry Reader is the flagship module of **Science Readers**, a private educational ecosystem planned to extend the same approach to localised modules in Mathematics, Physics, Chemistry and Biology. See [CURRICULUM.md](CURRICULUM.md).
+Geometry Reader is the flagship module of **Science Readers**, a private educational ecosystem planned to extend the same approach to localised modules in Mathematics, Physics, Chemistry and Biology. Its Measurement & Units lab is the first shared foundation module: built here because its core is spatial, and planned for reuse by the Physics and Chemistry modules. See [CURRICULUM.md](CURRICULUM.md).
 
 ## Read more
 | Document | Contents |
