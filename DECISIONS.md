@@ -8,7 +8,7 @@ Every principle states a design intention. Whether it achieves its aim for learn
 *Origin: author.* Every concept is taught by direct manipulation: learners drag points, lines and solids, and every angle, length, area and volume updates live. No value is hidden. Text-only geometry blocked the author's own understanding as a student; seeing and handling the figure unlocked it.
 
 ## 2. Watch why, not just that
-*Origin: author.* The aim is that every theorem and formula is shown as an animation on the learner's own figure; 21 topics have one so far. Pieces fold, swing and slide until the reason becomes visible, with short plain captions. Proofs stay live: drag the figure and the same argument replays on the new shape. No exam board's written proof format is used as the main explanation.
+*Origin: author.* Results are shown as animations on the learner's own figure: 36 topics have one, from angles on a straight line to the volume of a cone. Pieces fold, swing and slide until the reason becomes visible, with short plain captions. A few, such as the volumes of the cone and the sphere, are visual explanations that rest on a slicing argument rather than full proofs. Proofs stay live: drag the figure and the same argument replays on the new shape. No exam board's written proof format is used as the main explanation.
 
 ## 3. Two kinds of language, side by side
 *Origin: author.* Every formal term appears beside a plain-language translation, for example *Supplementary Angles ➔ (180° Flat Runway Pairs)*. Formal terms are where many learners freeze; the pairing lowers that wall while keeping the vocabulary examinations require.
@@ -28,7 +28,7 @@ Every principle states a design intention. Whether it achieves its aim for learn
 ## 7. Built for shared, low-resource devices
 *Origin: a property of the original build; the gendered-access rationale was stated by the author in October 2026.*
 - The whole application runs in the browser, and the figures are drawn as lightweight vector graphics.
-- After a single download of about 200 KB (compressed), it sends and receives nothing. A session costs no further data, and once the page has loaded it keeps working without a connection.
+- After a single download of about 225 KB (compressed), it sends and receives nothing. A session costs no further data, and once the page has loaded it keeps working without a connection.
 - An installable offline version is planned.
 
 ## 8. No accounts, nothing stored about the learner
