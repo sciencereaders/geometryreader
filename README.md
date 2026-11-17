@@ -18,7 +18,7 @@ Geometry Reader is not a textbook and not a replacement for practice. It is desi
 Geometry Reader supplies the missing step. The learner moves the figure, sees which facts survive every change, and watches the proof happen. In the author's teaching it is the second explanation, not the first: lessons start with the textbook and the methods learners are used to, the tool comes in where confusion remains, and practice follows without it. Whether it improves understanding is a research question, not yet a finding.
 
 ## What makes it different
-- **Watch why, not just that.** Theorems and formulas are proved by animating the learner's own figure: pieces fold, swing and slide until the reason is visible. 44 topics have a visual proof or derivation, from angles on a straight line to the circle theorems, the volume of a cone and the radian. Proofs that rest on the parallel postulate or the slicing principle say so on screen.
+- **Watch why, not just that.** Theorems and formulas are proved by animating the learner's own figure: pieces fold, swing and slide until the reason is visible. 45 topics have a visual proof or derivation, from angles on a straight line to the circle theorems, the volume of a cone, the radian and multiplying in standard form. Proofs that rest on the parallel postulate or the slicing principle say so on screen.
 - **Manipulate first.** Learners drag points, lines and solids; every angle, length, area and volume updates live.
 - **Formal and plain language together.** Every exam term sits beside a plain-language translation.
 - **A calm interface.** One tap switches off all motion and flashes; drag targets are large and forgiving; everything works from the keyboard.
