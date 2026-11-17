@@ -5,7 +5,7 @@ Geometry Reader was built with substantial help from an AI coding assistant (Cla
 ## Authorship and accountability
 - **Wasema Farzana is the author of Geometry Reader** and is accountable for all of it, including the parts the assistant produced.
 - **The assistant was a tool the author directed.** Following the position of the Committee on Publication Ethics, an AI tool cannot be an author, because it cannot take responsibility for the work (COPE, 2023).
-- **The `Co-Authored-By` line on commits is a disclosure, not a claim of authorship.** It is the convention software projects use to record which commits an assistant wrote.
+- **Credit line.** Conceived and directed by Wasema Farzana. She decides what problem it answers and for whom, how it teaches, what the research must test, and whether each piece serves the change it is meant to make. Claude Code, an AI coding assistant, writes the code and drafts documents from her briefs; she reviews each one and decides what stands.
 
 ## The author's contribution
 Listed by the contributor roles of the CRediT taxonomy (Brand et al., 2015):
@@ -33,7 +33,7 @@ Listed by the contributor roles of the CRediT taxonomy (Brand et al., 2015):
 - **Proposals.** Suggested some design decisions, which the author accepted on their merits. These include Calm mode and keyboard control, the policy of disclosing AI use, keeping design claims as hypotheses, correcting a mathematical over-generalisation in the original brief, and building the measurement lab as a foundation module shared across subjects. The full decision log, part of the Reviewer Pack, records the origin of every decision.
 
 ## Provenance
-- Commits written by the assistant carry a `Co-Authored-By` trailer.
+- Commits carry no attribution trailers. The assistant's part is disclosed in this statement and in the credit line in the README.
 - No learning, anxiety or accessibility outcome has been measured. Design aims are stated as hypotheses.
 
 ## References
