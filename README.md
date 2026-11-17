@@ -83,6 +83,9 @@ The work sits at the intersection of HCI, education and the anthropology of tech
 
 For research, collaboration or licensing enquiries, contact the author through [GitHub](https://github.com/wasemafarzana1).
 
+## Credit
+Conceived and directed by Wasema Farzana. She decides what problem it answers and for whom, how it teaches, what the research must test, and whether each piece serves the change it is meant to make. Claude Code, an AI coding assistant, writes the code and drafts documents from her briefs; she reviews each one and decides what stands. Full statement: [AI_USE.md](AI_USE.md).
+
 ## Licence
 Copyright © 2026 Wasema Farzana. All rights reserved. This is not open-source software. No part of it may be used, copied, modified, distributed or sold without written permission. See [LICENSE](LICENSE).
 
