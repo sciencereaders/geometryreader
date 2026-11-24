@@ -18,7 +18,7 @@ Every principle states a design intention. Whether it achieves its aim for learn
 
 ## 5. A calm interface for every nervous system
 *Origin: author, with AI proposals accepted.*
-- **Calm mode** switches off flashes, glows and motion in one tap, and the app also respects the device's reduced-motion setting.
+- **Calm mode** is on when the app opens. It stops flashes, pulses and celebrations and slows the proof animations; one tap turns full motion on. The app also respects the device's reduced-motion setting.
 - Drag targets are large and snap to meaningful values, so precise motor control is not a precondition for success.
 - Everything can be done from the keyboard.
 
@@ -28,7 +28,7 @@ Every principle states a design intention. Whether it achieves its aim for learn
 ## 7. Built for shared, low-resource devices
 *Origin: a property of the original build; the gendered-access rationale was stated by the author in October 2026.*
 - The whole application runs in the browser, and the figures are drawn as lightweight vector graphics.
-- After a single download of about 240 KB (compressed), it sends and receives nothing. A session costs no further data, and once the page has loaded it keeps working without a connection.
+- After a single download of about 250 KB (compressed), it sends and receives nothing. A session costs no further data, and once the page has loaded it keeps working without a connection.
 - An installable offline version is planned.
 
 ## 8. No accounts, nothing stored about the learner

@@ -27,7 +27,7 @@ Listed by the contributor roles of the CRediT taxonomy (Brand et al., 2015):
 ## The assistant's contribution
 - **Software.** Wrote all of the application code, from the author's briefs.
 - **Visualisation.** Drew the everyday-object illustrations, after the author chose in-house drawings.
-- **Validation.** Ran the automated checks: lint, build, numerical tests and scripted browser walk-throughs.
+- **Validation.** Ran the automated checks: lint, build, numerical tests, scripted browser walk-throughs, and a station check that plays every proof step with each control and draggable point at its limits.
 - **Mathematical review.** At the author's request, checked the visual proofs for gaps in logic, and fixed the ones found.
 - **Writing.** Drafted most of the documentation from the author's own statements, and checked the references against published records.
 - **Proposals.** Suggested some design decisions, which the author accepted on their merits. These include Calm mode and keyboard control, the policy of disclosing AI use, keeping design claims as hypotheses, correcting a mathematical over-generalisation in the original brief, and building the measurement lab as a foundation module shared across subjects. The full decision log, part of the Reviewer Pack, records the origin of every decision.
