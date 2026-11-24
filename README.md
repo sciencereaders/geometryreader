@@ -21,9 +21,9 @@ Geometry Reader supplies the missing step. The learner moves the figure, sees wh
 - **Watch why, not just that.** Theorems and formulas are proved by animating the learner's own figure: pieces fold, swing and slide until the reason is visible. 45 topics have a visual proof or derivation, from angles on a straight line to the circle theorems, the volume of a cone, the radian and multiplying in standard form. Proofs that rest on the parallel postulate or the slicing principle say so on screen.
 - **Manipulate first.** Learners drag points, lines and solids; every angle, length, area and volume updates live.
 - **Formal and plain language together.** Every exam term sits beside a plain-language translation.
-- **A calm interface.** One tap switches off all motion and flashes; drag targets are large and forgiving; everything works from the keyboard.
+- **A calm interface.** Calm mode is on from the start: no flashes or pulses, and slower proof animations. One tap turns full motion on. Drag targets are large and forgiving, and everything works from the keyboard.
 - **Built for constrained devices:**
-  - About 240 KB to download, once.
+  - About 250 KB to download, once.
   - After that, no data is sent or received, and it keeps working offline once loaded. An installable offline version is planned.
 - **Nothing to watch over.** No login, no profile, no tracking. On a shared phone, it keeps no record of the learner.
 - **Rooted in learners' own world.** Every idea is anchored in everyday objects, drawn in-house: a carrom board, a paper kite, a roti.
